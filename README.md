@@ -12,8 +12,7 @@ En este módulo se han aprendido nociones básicas sobre Machine Learning, en co
     - Researchpy
     
   - Regresión Líneal, conocimientos aplicados:
-  
-  . - EDA y limpieza de datasets.
+    - EDA y limpieza de datasets.
   
     - Tests estádisticos.
     
